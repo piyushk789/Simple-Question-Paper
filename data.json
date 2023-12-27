@@ -1,0 +1,15 @@
+{
+      "set-a": [
+          ["In which menu does the spelling command appear?", "Tools", "Windows", "Edit", "None of These"],
+          ["A right click on the Windows desktop itself will", "open the Display Properties dialog box", "show a context-sensitive menu", "open the Control Panel", "minimize all open applications"],
+          ["When numbers are typed inside a cell, the default alignment is:", "Left-aligned", "Center-aligned", "Right-aligned", "Justified"],
+          ["Cell address 'A$4' in a formula means it is a", "relative cell reference", "absolute cell reference", "mixed cell reference", "All of the above"],
+          ["When you create a chart on a separate sheet in the same workbook, it is called a", "chart sheet", "embedded chart", "view sheet", "view chart"],
+          ["Page break command of Excel on the Insert menu will result in insertion of page break", "above the selected row", "below the selected row", "middle of the selected row", "None of the above"],
+          ["To print a specific area in Excel", "set print area from File menu", "set print area from Page Setup dialog box", "both a and b above", "None of the above"],
+          ["Pressing _____ is a quick way to cycle between open program windows.", "Alt + Tab", "Ctrl + Tab", "Shift + Tab", "Shift + Alt"],
+          ["In PowerPoint, the slide sorted command is found under which menu?", "File", "Tools", "View", "Edit"],
+          ["In Excel, the shortcut fill menu contains", "Fill weekdays", "Fill series", "(a) and (b) both", "None of these"]
+      ],
+      "answer-a": ["A", "D", "C", "B", "D", "B", "C", "C", "D", "A"]
+  }
