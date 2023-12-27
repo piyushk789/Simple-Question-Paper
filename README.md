@@ -1,8 +1,7 @@
 # Simple-Question-Paper
 
-### Repository Title:
-- **Quiz-Test:**
-  A Python-based GUI application for conducting `school-college` exams with features like user introduction, question-paper display, and result generation.
+### Quiz-Test
+- A Python-based GUI application for conducting `school-college` exams with features like user introduction, question-paper display, and result generation.
 
 ### Description:
 - **Overview:**
